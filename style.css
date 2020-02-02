@@ -1,0 +1,40 @@
+.xd{
+	color:rgb(230,230,230);
+	text-align:center;
+	text-shadow:2px 2px 5px black;
+}
+h2{
+	text-shadow:2px 2px 1px black;
+	color:rgb(255,174,0);
+	text-align:center;
+}	
+body{
+	background: url(123.jpg) no-repeat center center fixed;
+	background-size:cover;
+}
+h3{
+	text-shadow:2px 2px 1px black;
+	color:rgb(221, 255, 0);
+	text-align:center;
+}
+h4{
+	text-shadow:2px 2px 1px black;
+	color:rgb(221, 255, 0);
+	text-align:center;
+}
+h5{
+	text-shadow:2px 2px 1px black;
+	color:rgb(221, 255, 0);
+	text-align:center;
+}
+img{
+	width:450px;
+}
+.image-wrap{
+	width: 1500px;
+	height:200px;
+}
+.image-center{
+	display:block;
+	margin: auto;
+}
